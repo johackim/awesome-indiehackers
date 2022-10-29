@@ -71,6 +71,7 @@ An indie hacker is an independent creator. They build projects and make money in
 - [Simon Høiberg](https://www.youtube.com/c/SimonHoiberg/videos)
 - [MicroConf](https://www.youtube.com/c/MicroConf/videos)
 - [Florin Pop](https://www.youtube.com/c/FlorinPop/videos)
+- [Justin Jackson](https://www.youtube.com/c/JustinJackson/videos)
 
 ## Support me
 
