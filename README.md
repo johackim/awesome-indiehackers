@@ -10,6 +10,7 @@ An indie hacker is an independent creator. They build projects and make money in
 - [Alex West](https://twitter.com/alexwestco)
 - [Jon Yongfook](https://twitter.com/yongfook)
 - [Jakob Greenfeld](https://twitter.com/jakobgreenfeld)
+- [Jim raptis](https://twitter.com/d__raptis)
 
 ## Blogs
 
