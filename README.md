@@ -34,6 +34,8 @@ An indie hacker is an independent creator. They build projects and make money in
 - [Generating Product Ideas - Artiom Dashinsky](https://productideasbook.com/)
 - [Rework - Jason Fried](https://amzn.to/3TU4Luk)
 - [The Personal MBA - Josh Kaufman](https://amzn.to/3N784fr)
+- [The $100 Startup - Chris Guillebeau](https://amzn.to/3DtGIfe)
+- [Rework - Jason Fried](https://amzn.to/3DXayKt)
 
 ## Podcasts
 
@@ -44,6 +46,7 @@ An indie hacker is an independent creator. They build projects and make money in
 - [My First Million](https://www.mfmpod.com/)
 - [The Bootstrapped Founder](https://thebootstrappedfounder.com/podcast/)
 - [The SaaS Podcast](https://saasclub.io/saas-podcast/)
+- [Build Your SaaS](https://saas.transistor.fm/)
 
 ## Communities
 
@@ -66,7 +69,8 @@ An indie hacker is an independent creator. They build projects and make money in
 - [Rob Fitzpatrick - Practical Customer Development](https://www.udemy.com/course/practical-customer-development/)
 - [Ryan Kulp - Create a 7 Figure SaaS Growth Blueprint](https://growthcourse.teachable.com/)
 - [Hiten Shah - Build Winning Products](https://app.producthabits.com/)
-- [Justin Jackson - Marketing for Developers](https://marketing-for-developers.vercel.app/)
+- [Justin Jackson - Marketing for Developers](https://www.devmarketing.xyz/)
+- [30x500 Academy - Amy Hoy & Alex Hillman](https://30x500.com)
 
 ## YouTube Channels
 
