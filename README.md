@@ -27,6 +27,7 @@ An indie hacker is an independent creator. They build projects and make money in
 - [Zero To Sold - Arvid Kahl](https://zerotosold.com/)
 - [Company of One - Paul Jarvis](https://amzn.to/3TQOGpo)
 - [Start Small, Stay Small - Rob Walling](https://amzn.to/3DwdgGN)
+- [The SaaS Playbook - Rob Walling](https://saasplaybook.com/)
 - [The Mom Test - Rob Fitzpatrick](https://www.momtestbook.com/)
 - [The $150M secret - Guillaume Moubeche](https://www.guillaumemoubeche.com/the-150m-dollar-secret)
 - [The Minimalist Entrepreneur - Sahil Lavingia](https://www.minimalistentrepreneur.com/)
