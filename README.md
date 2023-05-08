@@ -47,6 +47,7 @@ An indie hacker is an independent creator. They build projects and make money in
 - [The Bootstrapped Founder](https://thebootstrappedfounder.com/podcast/)
 - [The SaaS Podcast](https://saasclub.io/saas-podcast/)
 - [Build Your SaaS](https://saas.transistor.fm/)
+- [$1M Solo Business With Alex West](https://pod.link/1644673441)
 
 ## Communities
 
