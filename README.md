@@ -72,6 +72,8 @@ An indie hacker is an independent creator. They build projects and make money in
 - [Hiten Shah - Build Winning Products](https://app.producthabits.com/)
 - [Justin Jackson - Marketing for Developers](https://www.devmarketing.xyz/)
 - [30x500 Academy - Amy Hoy & Alex Hillman](https://30x500.com)
+- [Tiny Little Businesses](https://tinylittlebusinesses.com/)
+- [Stacking The Bricks](https://stackingthebricks.com/)
 
 ## YouTube Channels
 
