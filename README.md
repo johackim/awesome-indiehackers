@@ -1,8 +1,8 @@
-## What is an Indie Hacker?
+## 🤔 What is an Indie Hacker?
 
 An indie hacker is an independent creator. They build projects and make money independently without employees or external funding,
 
-## Indie Hackers
+## 🧑‍💻 Indie Hackers
 
 - [Pieter Levels](https://twitter.com/levelsio)
 - [Arvid Kahl](https://twitter.com/arvidkahl)
@@ -12,7 +12,7 @@ An indie hacker is an independent creator. They build projects and make money in
 - [Jakob Greenfeld](https://twitter.com/jakobgreenfeld)
 - [Jim raptis](https://twitter.com/d__raptis)
 
-## Blogs
+## 📚 Blogs
 
 - [Pieter Levels](https://levels.io/blog/)
 - [The Bootstrapped Founder](https://thebootstrappedfounder.com/)
@@ -21,7 +21,7 @@ An indie hacker is an independent creator. They build projects and make money in
 - [Hiten Shah](https://hitenism.com/)
 - [Plausible](https://plausible.io/blog)
 
-## Books
+## 📖 Books
 
 - [Make - Pieter Levels](https://readmake.com/)
 - [Zero To Sold - Arvid Kahl](https://zerotosold.com/)
@@ -37,7 +37,7 @@ An indie hacker is an independent creator. They build projects and make money in
 - [The Personal MBA - Josh Kaufman](https://amzn.to/3N784fr)
 - [The $100 Startup - Chris Guillebeau](https://amzn.to/3DtGIfe)
 
-## Podcasts
+## 🎧 Podcasts
 
 - [Indie Hackers](https://share.transistor.fm/s/0723051d)
 - [Indie Bites](https://indiebites.com/)
@@ -49,7 +49,7 @@ An indie hacker is an independent creator. They build projects and make money in
 - [Build Your SaaS](https://saas.transistor.fm/)
 - [$1M Solo Business With Alex West](https://pod.link/1644673441)
 
-## Communities
+## 🌐 Communities
 
 - [Indie Hackers](https://indiehackers.com)
 - [Hacker News](https://news.ycombinator.com)
@@ -62,7 +62,7 @@ An indie hacker is an independent creator. They build projects and make money in
 - [MicroFounder](https://microfounder.com/)
 - [Women Make](https://womenmake.com/)
 
-## Courses
+## 🎓 Courses
 
 - [Refactoring Growth - Corey Haines](https://learn.swipefiles.com/refactoring-growth)
 - [Seth Godin - Workshop for Bootstrappers](https://udemy.com/course/workshop-for-bootstrappers/)
@@ -75,14 +75,14 @@ An indie hacker is an independent creator. They build projects and make money in
 - [Tiny Little Businesses](https://tinylittlebusinesses.com/)
 - [Stacking The Bricks](https://stackingthebricks.com/)
 
-## YouTube Channels
+## 📹 YouTube Channels
 
 - [Simon Høiberg](https://youtube.com/c/SimonHoiberg/videos)
 - [MicroConf](https://youtube.com/c/MicroConf/videos)
 - [Florin Pop](https://youtube.com/c/FlorinPop/videos)
 - [Justin Jackson](https://youtube.com/c/JustinJackson/videos)
 
-## Support me
+## 🎁 Support me
 
 I'd love to work on this project, but my time on this earth is limited, support my work to give me more time!
 
@@ -96,7 +96,7 @@ Please support me with a one-time or a monthly donation and help me continue my 
 [![Mastodon](https://img.shields.io/mastodon/follow/1631?domain=https%3A%2F%2Fmastodon.ethibox.fr&style=social)](https://mastodon.ethibox.fr/@johackim)
 [![Twitter](https://img.shields.io/twitter/follow/_johackim?style=social)](https://twitter.com/_johackim)
 
-## License
+## 📜 License
 
 This project is licensed under the GNU GPL v3.0 - see the [LICENSE.txt](https://raw.githubusercontent.com/johackim/awesome-indiehackers/master/LICENSE.txt) file for details
 
