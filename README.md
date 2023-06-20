@@ -17,7 +17,7 @@ An indie hacker is an independent creator. They build projects and make money in
 - [Pieter Levels](https://levels.io/blog/)
 - [The Bootstrapped Founder](https://thebootstrappedfounder.com/)
 - [Jakob Greenfeld](https://jakobgreenfeld.com/)
-- [Alex West](https://www.alexwest.co/)
+- [Alex West](https://alexwest.co/)
 - [Hiten Shah](https://hitenism.com/)
 - [Plausible](https://plausible.io/blog)
 
@@ -28,9 +28,9 @@ An indie hacker is an independent creator. They build projects and make money in
 - [Company of One - Paul Jarvis](https://amzn.to/3TQOGpo)
 - [Start Small, Stay Small - Rob Walling](https://amzn.to/3DwdgGN)
 - [The SaaS Playbook - Rob Walling](https://saasplaybook.com/)
-- [The Mom Test - Rob Fitzpatrick](https://www.momtestbook.com/)
-- [The $150M secret - Guillaume Moubeche](https://www.guillaumemoubeche.com/the-150m-dollar-secret)
-- [The Minimalist Entrepreneur - Sahil Lavingia](https://www.minimalistentrepreneur.com/)
+- [The Mom Test - Rob Fitzpatrick](https://momtestbook.com/)
+- [The $150M secret - Guillaume Moubeche](https://guillaumemoubeche.com/the-150m-dollar-secret)
+- [The Minimalist Entrepreneur - Sahil Lavingia](https://minimalistentrepreneur.com/)
 - [Doing Content Right - Steph Smith](https://doingcontentright.com/)
 - [Generating Product Ideas - Artiom Dashinsky](https://productideasbook.com/)
 - [Rework - Jason Fried](https://amzn.to/3TU4Luk)
@@ -43,7 +43,7 @@ An indie hacker is an independent creator. They build projects and make money in
 - [Indie Bites](https://indiebites.com/)
 - [Indie Makers](https://anchor.fm/indiemakers)
 - [Software Social](https://share.transistor.fm/s/c7c55be2)
-- [My First Million](https://www.mfmpod.com/)
+- [My First Million](https://mfmpod.com/)
 - [The Bootstrapped Founder](https://thebootstrappedfounder.com/podcast/)
 - [The SaaS Podcast](https://saasclub.io/saas-podcast/)
 - [Build Your SaaS](https://saas.transistor.fm/)
@@ -53,11 +53,11 @@ An indie hacker is an independent creator. They build projects and make money in
 
 - [Indie Hackers](https://indiehackers.com)
 - [Hacker News](https://news.ycombinator.com)
-- [Product Hunt](https://www.producthunt.com)
+- [Product Hunt](https://producthunt.com)
 - [Wip](https://wip.co)
-- [Ramen Club](https://www.ramenclub.so/)
+- [Ramen Club](https://ramenclub.so/)
 - [Makerlog](https://getmakerlog.com/)
-- [Bootstrapped Family](https://www.bootstrappedfamily.com/)
+- [Bootstrapped Family](https://bootstrappedfamily.com/)
 - [Awesome Indie](https://awesomeindie.com/)
 - [MicroFounder](https://microfounder.com/)
 - [Women Make](https://womenmake.com/)
@@ -65,22 +65,22 @@ An indie hacker is an independent creator. They build projects and make money in
 ## Courses
 
 - [Refactoring Growth - Corey Haines](https://learn.swipefiles.com/refactoring-growth)
-- [Seth Godin - Workshop for Bootstrappers](https://www.udemy.com/course/workshop-for-bootstrappers/)
+- [Seth Godin - Workshop for Bootstrappers](https://udemy.com/course/workshop-for-bootstrappers/)
 - [Mitch Harper - Successful Tech Startup in 60 Days](https://foundr.com/60ds-public-sp)
-- [Rob Fitzpatrick - Practical Customer Development](https://www.udemy.com/course/practical-customer-development/)
+- [Rob Fitzpatrick - Practical Customer Development](https://udemy.com/course/practical-customer-development/)
 - [Ryan Kulp - Create a 7 Figure SaaS Growth Blueprint](https://growthcourse.teachable.com/)
 - [Hiten Shah - Build Winning Products](https://app.producthabits.com/)
-- [Justin Jackson - Marketing for Developers](https://www.devmarketing.xyz/)
+- [Justin Jackson - Marketing for Developers](https://devmarketing.xyz/)
 - [30x500 Academy - Amy Hoy & Alex Hillman](https://30x500.com)
 - [Tiny Little Businesses](https://tinylittlebusinesses.com/)
 - [Stacking The Bricks](https://stackingthebricks.com/)
 
 ## YouTube Channels
 
-- [Simon Høiberg](https://www.youtube.com/c/SimonHoiberg/videos)
-- [MicroConf](https://www.youtube.com/c/MicroConf/videos)
-- [Florin Pop](https://www.youtube.com/c/FlorinPop/videos)
-- [Justin Jackson](https://www.youtube.com/c/JustinJackson/videos)
+- [Simon Høiberg](https://youtube.com/c/SimonHoiberg/videos)
+- [MicroConf](https://youtube.com/c/MicroConf/videos)
+- [Florin Pop](https://youtube.com/c/FlorinPop/videos)
+- [Justin Jackson](https://youtube.com/c/JustinJackson/videos)
 
 ## Support me
 
@@ -90,7 +90,7 @@ Please support me with a one-time or a monthly donation and help me continue my 
 
 [![Github sponsor](https://img.shields.io/badge/github-Support%20my%20work-lightgrey?style=social&logo=github)](https://github.com/sponsors/johackim/)
 [![ko-fi](https://img.shields.io/badge/ko--fi-Support%20my%20work-lightgrey?style=social&logo=ko-fi)](https://ko-fi.com/johackim)
-[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-Support%20my%20work-lightgrey?style=social&logo=buy%20me%20a%20coffee&logoColor=%23FFDD00)](https://www.buymeacoffee.com/johackim)
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-Support%20my%20work-lightgrey?style=social&logo=buy%20me%20a%20coffee&logoColor=%23FFDD00)](https://buymeacoffee.com/johackim)
 [![liberapay](https://img.shields.io/badge/liberapay-Support%20my%20work-lightgrey?style=social&logo=liberapay&logoColor=%23F6C915)](https://liberapay.com/johackim/donate)
 [![Github](https://img.shields.io/github/followers/johackim?label=Follow%20me&style=social)](https://github.com/johackim)
 [![Mastodon](https://img.shields.io/mastodon/follow/1631?domain=https%3A%2F%2Fmastodon.ethibox.fr&style=social)](https://mastodon.ethibox.fr/@johackim)
