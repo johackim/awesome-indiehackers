@@ -64,7 +64,7 @@ An indie hacker is an independent creator. They build projects and make money in
 
 ## 🎓 Courses
 
-- [Refactoring Growth - Corey Haines](https://learn.swipefiles.com/refactoring-growth)
+- [Refactoring Growth - Corey Haines](https://swipefiles.com/refactoring-growth)
 - [Seth Godin - Workshop for Bootstrappers](https://udemy.com/course/workshop-for-bootstrappers/)
 - [Mitch Harper - Successful Tech Startup in 60 Days](https://foundr.com/60ds-public-sp)
 - [Rob Fitzpatrick - Practical Customer Development](https://udemy.com/course/practical-customer-development/)
