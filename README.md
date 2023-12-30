@@ -61,6 +61,7 @@ An indie hacker is an independent creator. They build projects and make money in
 - [Awesome Indie](https://awesomeindie.com/)
 - [MicroFounder](https://microfounder.com/)
 - [Women Make](https://womenmake.com/)
+- [Indie Hackers Wiki](https://ihwiki.tech/)
 
 ## 🎓 Courses
 
