@@ -82,6 +82,7 @@ An indie hacker is an independent creator. They build projects and make money in
 - [MicroConf](https://youtube.com/c/MicroConf/videos)
 - [Florin Pop](https://youtube.com/c/FlorinPop/videos)
 - [Justin Jackson](https://youtube.com/c/JustinJackson/videos)
+- [Sahil Lavingia](https://youtube.com/@sahil_lavingia/videos)
 
 ## 🎁 Support me
 
