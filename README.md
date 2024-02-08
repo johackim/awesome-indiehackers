@@ -36,6 +36,7 @@ An indie hacker is an independent creator. They build projects and make money in
 - [Rework - Jason Fried](https://amzn.to/3TU4Luk)
 - [The Personal MBA - Josh Kaufman](https://amzn.to/3N784fr)
 - [The $100 Startup - Chris Guillebeau](https://amzn.to/3DtGIfe)
+- [Million Dollar Weekend - Noah Kagan](https://amazon.com/dp/059353977X/)
 
 ## 🎧 Podcasts
 
