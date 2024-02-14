@@ -1,6 +1,6 @@
 ## 🤔 What is an Indie Hacker?
 
-An indie hacker is an independent creator. They build projects and make money independently without employees or external funding,
+An indie hacker is an independent creator who builds projects and makes money independently, without employees or external funding.
 
 ## 🧑‍💻 Indie Hackers
 
