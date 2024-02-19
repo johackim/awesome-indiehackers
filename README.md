@@ -70,12 +70,12 @@ An indie hacker is an independent creator who builds projects and makes money in
 ## 🎓 Courses
 
 - [Refactoring Growth - Corey Haines](https://swipefiles.com/refactoring-growth)
-- [Seth Godin - Workshop for Bootstrappers](https://udemy.com/course/workshop-for-bootstrappers/)
-- [Mitch Harper - Successful Tech Startup in 60 Days](https://foundr.com/60ds-public-sp)
-- [Rob Fitzpatrick - Practical Customer Development](https://udemy.com/course/practical-customer-development/)
-- [Ryan Kulp - Create a 7 Figure SaaS Growth Blueprint](https://growthcourse.teachable.com/)
-- [Hiten Shah - Build Winning Products](https://app.producthabits.com/)
-- [Justin Jackson - Marketing for Developers](https://devmarketing.xyz/)
+- [Workshop for Bootstrappers - Seth Godin](https://udemy.com/course/workshop-for-bootstrappers/)
+- [Successful Tech Startup in 60 Days - Mitch Harper](https://foundr.com/60ds-public-sp)
+- [Practical Customer Development - Rob Fitzpatrick](https://udemy.com/course/practical-customer-development/)
+- [Create a 7 Figure SaaS Growth Blueprint - Ryan Kulp](https://growthcourse.teachable.com/)
+- [Build Winning Products - Hiten Shah](https://app.producthabits.com/)
+- [Marketing for Developers - Justin Jackson](https://devmarketing.xyz/)
 - [30x500 Academy - Amy Hoy & Alex Hillman](https://30x500.com)
 - [Tiny Little Businesses](https://tinylittlebusinesses.com/)
 - [Stacking The Bricks](https://stackingthebricks.com/)
