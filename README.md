@@ -46,9 +46,13 @@ An indie hacker is an independent creator who builds projects and makes money in
 - [Software Social](https://share.transistor.fm/s/c7c55be2)
 - [My First Million](https://mfmpod.com/)
 - [The Bootstrapped Founder](https://thebootstrappedfounder.com/podcast/)
+- [Startups For The Rest of Us](https://www.startupsfortherestofus.com/)
 - [The SaaS Podcast](https://saasclub.io/saas-podcast/)
 - [Build Your SaaS](https://saas.transistor.fm/)
 - [$1M Solo Business With Alex West](https://pod.link/1644673441)
+- [Bootstrapped](https://bootstrapped.fm/)
+- [Ramen FM](https://www.ramen.fm/)
+- [Tropical MBA](https://www.tropicalmba.com/)
 
 ## 🌐 Communities
 
