@@ -20,6 +20,8 @@ An indie hacker is an independent creator who builds projects and makes money in
 - [Alex West](https://alexwest.co/)
 - [Hiten Shah](https://hitenism.com/)
 - [Plausible](https://plausible.io/blog)
+- [Tiny Little Businesses](https://tinylittlebusinesses.com/)
+- [Stacking The Bricks](https://stackingthebricks.com/)
 
 ## 📖 Books
 
@@ -77,8 +79,6 @@ An indie hacker is an independent creator who builds projects and makes money in
 - [Build Winning Products - Hiten Shah](https://app.producthabits.com/)
 - [Marketing for Developers - Justin Jackson](https://devmarketing.xyz/)
 - [30x500 Academy - Amy Hoy & Alex Hillman](https://30x500.com)
-- [Tiny Little Businesses](https://tinylittlebusinesses.com/)
-- [Stacking The Bricks](https://stackingthebricks.com/)
 
 ## 📹 YouTube Channels
 
