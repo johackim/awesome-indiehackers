@@ -55,6 +55,7 @@ An indie hacker is an independent creator who builds projects and makes money in
 - [Bootstrapped](https://bootstrapped.fm/)
 - [Ramen FM](https://www.ramen.fm/)
 - [Tropical MBA](https://www.tropicalmba.com/)
+- [Zero To Million SaaS](https://zerotomillionsaas.com/)
 
 ## 🌐 Communities
 
@@ -83,6 +84,7 @@ An indie hacker is an independent creator who builds projects and makes money in
 ## 📹 YouTube Channels
 
 - [Simon Høiberg](https://youtube.com/c/SimonHoiberg/videos)
+- [Simon Høiberg - Explains](https://youtube.com/@SimonHoibergExplains/videos)
 - [MicroConf](https://youtube.com/c/MicroConf/videos)
 - [Florin Pop](https://youtube.com/c/FlorinPop/videos)
 - [Justin Jackson](https://youtube.com/c/JustinJackson/videos)
