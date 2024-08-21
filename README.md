@@ -39,6 +39,7 @@ An indie hacker is an independent creator who builds projects and makes money in
 - [The Personal MBA - Josh Kaufman](https://amzn.to/3N784fr)
 - [The $100 Startup - Chris Guillebeau](https://amzn.to/3DtGIfe)
 - [Million Dollar Weekend - Noah Kagan](https://amazon.com/dp/059353977X/)
+- [Never Enough - Andrew Wilkinson](https://amazon.com/dp/B0CKVJS17Z/)
 
 ## 🎧 Podcasts
 
