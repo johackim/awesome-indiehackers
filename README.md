@@ -37,6 +37,7 @@ An indie hacker is an independent creator who builds projects and makes money in
 - [The $100 Startup - Chris Guillebeau](https://amzn.to/3DtGIfe)
 - [Start Small, Stay Small - Rob Walling](https://amzn.to/3DwdgGN)
 - [Million Dollar Weekend - Noah Kagan](https://amazon.com/dp/059353977X/)
+- [The Chameleon Founder - Matteo Mosca](https://amazon.com/dp/B0CN4YH2LP)
 - [The $150M secret - Guillaume Moubeche](https://guillaumemoubeche.com/the-150m-dollar-secret)
 - [The Minimalist Entrepreneur - Sahil Lavingia](https://minimalistentrepreneur.com/)
 - [Generating Product Ideas - Artiom Dashinsky](https://productideasbook.com/)
