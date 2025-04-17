@@ -4,13 +4,13 @@ An indie hacker is an independent creator who builds projects and makes money in
 
 ## 🧑‍💻 Indie Hackers
 
-- [Jim raptis](https://twitter.com/d__raptis)
-- [Alex West](https://twitter.com/alexwestco)
-- [Arvid Kahl](https://twitter.com/arvidkahl)
-- [Pieter Levels](https://twitter.com/levelsio)
-- [Jon Yongfook](https://twitter.com/yongfook)
-- [Danny Postma](https://twitter.com/dannypostmaa)
-- [Jakob Greenfeld](https://twitter.com/jakobgreenfeld)
+- [Jim raptis](https://x.com/d__raptis)
+- [Alex West](https://x.com/alexwestco)
+- [Arvid Kahl](https://x.com/arvidkahl)
+- [Pieter Levels](https://x.com/levelsio)
+- [Jon Yongfook](https://x.com/yongfook)
+- [Danny Postma](https://x.com/dannypostmaa)
+- [Jakob Greenfeld](https://x.com/jakobgreenfeld)
 
 ## 📚 Blogs
 
@@ -39,7 +39,7 @@ An indie hacker is an independent creator who builds projects and makes money in
 - [Million Dollar Weekend - Noah Kagan](https://amazon.com/dp/059353977X/)
 - [The Chameleon Founder - Matteo Mosca](https://amazon.com/dp/B0CN4YH2LP)
 - [The $150M secret - Guillaume Moubeche](https://guillaumemoubeche.com/the-150m-dollar-secret)
-- [The Minimalist Entrepreneur - Sahil Lavingia](https://minimalistentrepreneur.com/)
+- [The Minimalist Entrepreneur - Sahil Lavingia](https://amazon.com/dp/B08V52DP47)
 - [Generating Product Ideas - Artiom Dashinsky](https://productideasbook.com/)
 
 ## 🎧 Podcasts
@@ -62,7 +62,6 @@ An indie hacker is an independent creator who builds projects and makes money in
 ## 🌐 Communities
 
 - [Wip](https://wip.co)
-- [Makerlog](https://getmakerlog.com/)
 - [Ramen Club](https://ramenclub.so/)
 - [Hacker News](https://news.ycombinator.com)
 - [Product Hunt](https://producthunt.com)
@@ -70,7 +69,6 @@ An indie hacker is an independent creator who builds projects and makes money in
 - [Women Make](https://womenmake.com/)
 - [MicroFounder](https://microfounder.com/)
 - [Awesome Indie](https://awesomeindie.com/)
-- [Bootstrapped Family](https://bootstrappedfamily.com/)
 
 ## 🎓 Courses
 
@@ -91,7 +89,6 @@ An indie hacker is an independent creator who builds projects and makes money in
 - [Sahil Lavingia](https://youtube.com/@sahil_lavingia/videos)
 - [Justin Jackson](https://youtube.com/c/JustinJackson/videos)
 - [Simon Høiberg](https://youtube.com/c/SimonHoiberg/videos)
-- [Simon Høiberg - Explains](https://youtube.com/@SimonHoibergExplains/videos)
 
 ## 🎁 Support me
 
@@ -105,7 +102,7 @@ Please support me with a one-time or a monthly donation and help me continue my 
 [![liberapay](https://img.shields.io/badge/liberapay-Support%20my%20work-lightgrey?style=social&logo=liberapay&logoColor=%23F6C915)](https://liberapay.com/johackim/donate)
 [![Github](https://img.shields.io/github/followers/johackim?label=Follow%20me&style=social)](https://github.com/johackim)
 [![Mastodon](https://img.shields.io/mastodon/follow/1631?domain=https%3A%2F%2Fmastodon.ethibox.fr&style=social)](https://mastodon.ethibox.fr/@johackim)
-[![Twitter](https://img.shields.io/twitter/follow/_johackim?style=social)](https://twitter.com/_johackim)
+[![Twitter](https://img.shields.io/twitter/follow/_johackim?style=social)](https://x.com/_johackim)
 
 ## 📜 License
 
