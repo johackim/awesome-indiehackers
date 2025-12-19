@@ -82,6 +82,10 @@ An indie hacker is an independent creator who builds projects and makes money in
 - [Successful Tech Startup in 60 Days - Mitch Harper](https://foundr.com/60ds-public-sp)
 - [Create a 7 Figure SaaS Growth Blueprint - Ryan Kulp](https://growthcourse.teachable.com/)
 
+## 🛠 Tools
+
+- [Calcmatic](https://calcmatic.app) - Free online calculators for ecommerce profit, payment processing fees, shipping costs, and personal finance
+
 ## 📹 YouTube Channels
 
 - [MicroConf](https://youtube.com/c/MicroConf/videos)
