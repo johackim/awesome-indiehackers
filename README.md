@@ -70,6 +70,10 @@ An indie hacker is an independent creator who builds projects and makes money in
 - [MicroFounder](https://microfounder.com/)
 - [Awesome Indie](https://awesomeindie.com/)
 
+## 🛠️ Tools
+
+- [Taskade](https://taskade.com) - AI-powered workspace with project management, custom AI agents, workflow automation, and real-time collaboration
+
 ## 🎓 Courses
 
 - [No Code MVP - Bram Kanstein](https://nocodemvp.com/)
