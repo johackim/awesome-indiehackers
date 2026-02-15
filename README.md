@@ -44,6 +44,7 @@ An indie hacker is an independent creator who builds projects and makes money in
 - [The $150M secret - Guillaume Moubeche](https://guillaumemoubeche.com/the-150m-dollar-secret)
 - [The Minimalist Entrepreneur - Sahil Lavingia](https://amazon.com/dp/B08V52DP47)
 - [Generating Product Ideas - Artiom Dashinsky](https://productideasbook.com/)
+- [The Almanack of Naval Ravikant - Eric Jorgenson](https://amazon.com/dp/B0F9XD4XSY)
 
 ## 🎧 Podcasts
 
