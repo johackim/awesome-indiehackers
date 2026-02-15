@@ -19,6 +19,7 @@ An indie hacker is an independent creator who builds projects and makes money in
 - [Hiten Shah](https://hitenism.com/)
 - [Pieter Levels](https://levels.io/blog/)
 - [Jakob Greenfeld](https://jakobgreenfeld.com/)
+- [Marketing Examples](https://marketingexamples.com/)
 - [Stacking The Bricks](https://stackingthebricks.com/)
 - [Tiny Little Businesses](https://tinylittlebusinesses.com/)
 - [The Bootstrapped Founder](https://thebootstrappedfounder.com/)
