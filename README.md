@@ -4,6 +4,8 @@ An indie hacker is an independent creator who builds projects and makes money in
 
 ## 🧑‍💻 Indie Hackers
 
+- [Marc Lou](https://x.com/marclou)
+- [Tony Dinh](https://x.com/tdinh_me)
 - [Jim raptis](https://x.com/d__raptis)
 - [Alex West](https://x.com/alexwestco)
 - [Arvid Kahl](https://x.com/arvidkahl)
