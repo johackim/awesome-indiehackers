@@ -82,6 +82,10 @@ An indie hacker is an independent creator who builds projects and makes money in
 - [Successful Tech Startup in 60 Days - Mitch Harper](https://foundr.com/60ds-public-sp)
 - [Create a 7 Figure SaaS Growth Blueprint - Ryan Kulp](https://growthcourse.teachable.com/)
 
+## 📝 Templates
+
+- [Indie Hacker Toolkit](https://github.com/Wittlesus/indie-hacker-toolkit) - 5 Notion templates for solo founders: launch checklist, pricing calculator, competitor analysis, user persona, and metrics dashboard. Actively maintained.
+
 ## 📹 YouTube Channels
 
 - [MicroConf](https://youtube.com/c/MicroConf/videos)
