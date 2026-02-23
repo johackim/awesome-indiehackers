@@ -113,3 +113,8 @@ Please support me with a one-time or a monthly donation and help me continue my 
 This project is licensed under the GNU GPL v3.0 - see the [LICENSE.txt](https://raw.githubusercontent.com/johackim/awesome-indiehackers/master/LICENSE.txt) file for details
 
 **Free Software, Hell Yeah!**
+
+
+## Communities
+
+- [IndieStack](https://indiestack.fly.dev) - A curated directory of indie-built SaaS alternatives.
