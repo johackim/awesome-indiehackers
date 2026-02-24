@@ -85,6 +85,7 @@ An indie hacker is an independent creator who builds projects and makes money in
 - [Practical Customer Development - Rob Fitzpatrick](https://udemy.com/course/practical-customer-development/)
 - [Successful Tech Startup in 60 Days - Mitch Harper](https://foundr.com/60ds-public-sp)
 - [Create a 7 Figure SaaS Growth Blueprint - Ryan Kulp](https://growthcourse.teachable.com/)
+- [OpenClaw - Build Your AI Employee System](https://openclawapp.netlify.app/)
 
 ## 📹 YouTube Channels
 
