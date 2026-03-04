@@ -92,6 +92,7 @@ An indie hacker is an independent creator who builds projects and makes money in
 - [Florin Pop](https://youtube.com/c/FlorinPop/videos)
 - [Sahil Lavingia](https://youtube.com/@sahil_lavingia/videos)
 - [Justin Jackson](https://youtube.com/c/JustinJackson/videos)
+- [ScopeShield](https://scopecreep-app.surge.sh) - Freelancer scope creep tracker: log change requests, track scope delta, generate change orders. MCP server included.
 - [Simon Høiberg](https://youtube.com/c/SimonHoiberg/videos)
 
 ## 🎁 Support me
