@@ -92,7 +92,6 @@ An indie hacker is an independent creator who builds projects and makes money in
 - [Florin Pop](https://youtube.com/c/FlorinPop/videos)
 - [Sahil Lavingia](https://youtube.com/@sahil_lavingia/videos)
 - [Justin Jackson](https://youtube.com/c/JustinJackson/videos)
-- [ScopeShield](https://scopecreep-app.surge.sh) - Freelancer scope creep tracker: log change requests, track scope delta, generate change orders. MCP server included.
 - [Simon Høiberg](https://youtube.com/c/SimonHoiberg/videos)
 
 ## 🎁 Support me
@@ -114,3 +113,8 @@ Please support me with a one-time or a monthly donation and help me continue my 
 This project is licensed under the GNU GPL v3.0 - see the [LICENSE.txt](https://raw.githubusercontent.com/johackim/awesome-indiehackers/master/LICENSE.txt) file for details
 
 **Free Software, Hell Yeah!**
+
+## Freelancer Tools
+
+- [ScopeShield](https://scopecreep-app.surge.sh) - Track scope creep, log change requests, generate change orders
+- [InvoiceChaser](https://invoicechaser-app.surge.sh) - Automated invoice follow-up sequences for freelancers
