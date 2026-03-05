@@ -108,6 +108,10 @@ Please support me with a one-time or a monthly donation and help me continue my 
 [![Mastodon](https://img.shields.io/mastodon/follow/1631?domain=https%3A%2F%2Fmastodon.ethibox.fr&style=social)](https://mastodon.ethibox.fr/@johackim)
 [![Twitter](https://img.shields.io/twitter/follow/_johackim?style=social)](https://x.com/_johackim)
 
+## 🛠️ Tools
+
+- [BeginThings](https://beginthings.com) - 96+ free browser tools for indie makers & freelancers — invoice generator, QR maker, UTM builder, time tracker & more. No login required.
+
 ## 📜 License
 
 This project is licensed under the GNU GPL v3.0 - see the [LICENSE.txt](https://raw.githubusercontent.com/johackim/awesome-indiehackers/master/LICENSE.txt) file for details
