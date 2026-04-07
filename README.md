@@ -94,6 +94,11 @@ An indie hacker is an independent creator who builds projects and makes money in
 - [Justin Jackson](https://youtube.com/c/JustinJackson/videos)
 - [Simon Høiberg](https://youtube.com/c/SimonHoiberg/videos)
 
+## 🛠 Tools
+
+- [Overloop CLI](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source 450M+ contacts, launch email + LinkedIn campaigns, manage conversations. JSON output, agent-native.
+- [Signals CLI](https://github.com/sortlist/signals-cli) - Intent signal monitoring. LinkedIn engagers, keyword posters, job changers, funding events. JSON output for agent pipelines.
+
 ## 🎁 Support me
 
 
