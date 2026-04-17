@@ -105,3 +105,8 @@ Please support me with a one-time or a monthly donation and help me continue my 
 This project is licensed under the GNU GPL v3.0 - see the [LICENSE.txt](https://raw.githubusercontent.com/johackim/awesome-indiehackers/master/LICENSE.txt) file for details
 
 **Free Software, Hell Yeah!**
+
+## Freelancer Tools
+
+- [ScopeShield](https://scopecreep-app.surge.sh) - Track scope creep, log change requests, generate change orders
+- [InvoiceChaser](https://invoicechaser-app.surge.sh) - Automated invoice follow-up sequences for freelancers
