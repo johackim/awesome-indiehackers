@@ -6,12 +6,12 @@ An indie hacker is an independent creator who builds projects and makes money in
 
 - [Marc Lou](https://x.com/marclou)
 - [Tony Dinh](https://x.com/tdinh_me)
-- [Jim raptis](https://x.com/d__raptis)
+- [Jim Raptis](https://x.com/d__raptis)
 - [Alex West](https://x.com/alexwestco)
 - [Arvid Kahl](https://x.com/arvidkahl)
 - [Pieter Levels](https://x.com/levelsio)
 - [Jon Yongfook](https://x.com/yongfook)
-- [Danny Postma](https://x.com/dannypostmaa)
+- [Danny Postma](https://x.com/dannypostma)
 - [Jakob Greenfeld](https://x.com/jakobgreenfeld)
 
 ## 📚 Blogs
@@ -29,22 +29,22 @@ An indie hacker is an independent creator who builds projects and makes money in
 ## 📖 Books
 
 - [Make - Pieter Levels](https://readmake.com/)
-- [Rework - Jason Fried](https://amzn.to/3TU4Luk)
+- [Rework - Jason Fried](https://amazon.com/dp/B003ELY7PG/)
 - [Zero To Sold - Arvid Kahl](https://zerotosold.com/)
-- [Company of One - Paul Jarvis](https://amzn.to/3TQOGpo)
+- [Company of One - Paul Jarvis](https://amazon.com/dp/B078962RHQ/)
 - [The Mom Test - Rob Fitzpatrick](https://momtestbook.com/)
 - [The SaaS Playbook - Rob Walling](https://saasplaybook.com/)
 - [Never Enough - Andrew Wilkinson](https://amazon.com/dp/B0CKVJS17Z/)
-- [The Personal MBA - Josh Kaufman](https://amzn.to/3N784fr)
+- [The Personal MBA - Josh Kaufman](https://amazon.com/dp/B08H5PKGGG/)
 - [Doing Content Right - Steph Smith](https://doingcontentright.com/)
-- [The $100 Startup - Chris Guillebeau](https://amzn.to/3DtGIfe)
-- [Start Small, Stay Small - Rob Walling](https://amzn.to/3DwdgGN)
+- [The $100 Startup - Chris Guillebeau](https://amazon.com/dp/B0067TGSOK/)
+- [Start Small, Stay Small - Rob Walling](https://amazon.com/dp/B003YH9MMI/)
 - [Million Dollar Weekend - Noah Kagan](https://amazon.com/dp/059353977X/)
-- [The Chameleon Founder - Matteo Mosca](https://amazon.com/dp/B0CN4YH2LP)
-- [The $150M secret - Guillaume Moubeche](https://guillaumemoubeche.com/the-150m-dollar-secret)
-- [The Minimalist Entrepreneur - Sahil Lavingia](https://amazon.com/dp/B08V52DP47)
+- [The Chameleon Founder - Matteo Mosca](https://amazon.com/dp/B0CN4YH2LP/)
+- [The $150M Secret - Guillaume Moubeche](https://amazon.com/dp/B0B3PGWSXG/)
+- [The Minimalist Entrepreneur - Sahil Lavingia](https://amazon.com/dp/B08V52DP47/)
 - [Generating Product Ideas - Artiom Dashinsky](https://productideasbook.com/)
-- [The Almanack of Naval Ravikant - Eric Jorgenson](https://amazon.com/dp/B0F9XD4XSY)
+- [The Almanack of Naval Ravikant - Eric Jorgenson](https://amazon.com/dp/B0F9XD4XSY/)
 
 ## 🎧 Podcasts
 
@@ -53,19 +53,18 @@ An indie hacker is an independent creator who builds projects and makes money in
 - [Indie Makers](https://anchor.fm/indiemakers)
 - [Tropical MBA](https://www.tropicalmba.com/)
 - [Bootstrapped](https://bootstrapped.fm/)
-- [Indie Hackers](https://share.transistor.fm/s/0723051d)
+- [Indie Hackers](https://www.indiehackers.com/podcasts)
 - [My First Million](https://mfmpod.com/)
 - [Software Social](https://share.transistor.fm/s/c7c55be2)
 - [Build Your SaaS](https://saas.transistor.fm/)
 - [The SaaS Podcast](https://saasclub.io/saas-podcast/)
-- [Zero To Million SaaS](https://zerotomillionsaas.com/)
 - [The Bootstrapped Founder](https://thebootstrappedfounder.com/podcast/)
 - [Startups For The Rest of Us](https://www.startupsfortherestofus.com/)
 - [$1M Solo Business With Alex West](https://pod.link/1644673441)
 
 ## 🌐 Communities
 
-- [Wip](https://wip.co)
+- [WIP](https://wip.co)
 - [Ramen Club](https://ramenclub.so/)
 - [Hacker News](https://news.ycombinator.com)
 - [Product Hunt](https://producthunt.com)
@@ -88,18 +87,18 @@ An indie hacker is an independent creator who builds projects and makes money in
 
 ## 📹 YouTube Channels
 
-- [MicroConf](https://youtube.com/c/MicroConf/videos)
-- [Florin Pop](https://youtube.com/c/FlorinPop/videos)
+- [MicroConf](https://youtube.com/@MicroConf/videos)
+- [Florin Pop](https://youtube.com/@FlorinPop/videos)
 - [Sahil Lavingia](https://youtube.com/@sahil_lavingia/videos)
-- [Justin Jackson](https://youtube.com/c/JustinJackson/videos)
-- [Simon Høiberg](https://youtube.com/c/SimonHoiberg/videos)
+- [Justin Jackson](https://youtube.com/@JustinJackson/videos)
+- [Simon Høiberg](https://youtube.com/@SimonHoiberg/videos)
 
 ## 🎁 Support me
-
 
 Please support me with a one-time or a monthly donation and help me continue my activities.
 
 [![Github sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors)](https://github.com/sponsors/johackim/)
+
 ## 📜 License
 
 This project is licensed under the GNU GPL v3.0 - see the [LICENSE.txt](https://raw.githubusercontent.com/johackim/awesome-indiehackers/master/LICENSE.txt) file for details
