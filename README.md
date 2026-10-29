@@ -87,6 +87,7 @@ An indie hacker is an independent creator who builds projects and makes money in
 
 ## 📹 YouTube Channels
 
+- [Marc Lou](https://youtube.com/@marc-lou/videos)
 - [MicroConf](https://youtube.com/@MicroConf/videos)
 - [Florin Pop](https://youtube.com/@FlorinPop/videos)
 - [Sahil Lavingia](https://youtube.com/@sahil_lavingia/videos)
