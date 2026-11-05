@@ -89,7 +89,6 @@ An indie hacker is an independent creator who builds projects and makes money in
 - [WIP](https://wip.co)
 - [Ramen Club](https://ramenclub.so)
 - [Hacker News](https://news.ycombinator.com)
-- [Product Hunt](https://producthunt.com)
 - [Indie Hackers](https://indiehackers.com)
 - [Awesome Indie](https://awesomeindie.com)
 
