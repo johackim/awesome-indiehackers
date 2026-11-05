@@ -105,10 +105,18 @@ An indie hacker is an independent creator who builds projects and makes money in
 
 ## 🎓 Courses
 
+- [CodeFast - Marc Lou](https://codefa.st)
+- [Monthly1K - Noah Kagan](https://appsumo.com/products/monthly1k)
+- [SaaS Launchpad - Rob Walling](https://microconf.com/courses/saas-launchpad)
+- [SEO Blueprint - Danny Postma](https://dannypostma.com/seo-course)
+- [The Creator MBA - Justin Welsh](https://justinwelsh.me/masterclass)
+- [Smart From Scratch - Pat Flynn](https://smartpassiveincome.com/courses-accelerators/smart-from-scratch/)
+- [Find Your Following - Arvid Kahl](https://findyourfollowing.com)
 - [Workshop for Bootstrappers - Seth Godin](https://udemy.com/course/workshop-for-bootstrappers)
 - [30x500 Academy - Amy Hoy & Alex Hillman](https://30x500.com)
 - [Practical Customer Development - Rob Fitzpatrick](https://udemy.com/course/practical-customer-development)
 - [Create a 7 Figure SaaS Growth Blueprint - Ryan Kulp](https://growthcourse.teachable.com)
+- [Everyone Can Build a Twitter Audience - Daniel Vassallo](https://dvassallo.gumroad.com/l/twitter-audience)
 
 <details>
 <summary>🗄️ 4 archived courses (no longer available, archived copies)</summary>
