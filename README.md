@@ -112,18 +112,21 @@ An indie hacker is an independent creator who builds projects and makes money in
 - [The Creator MBA - Justin Welsh](https://justinwelsh.me/masterclass)
 - [Smart From Scratch - Pat Flynn](https://smartpassiveincome.com/courses-accelerators/smart-from-scratch/)
 - [Find Your Following - Arvid Kahl](https://findyourfollowing.com)
-- [Workshop for Bootstrappers - Seth Godin](https://udemy.com/course/workshop-for-bootstrappers)
+- [Build Once, Sell Twice - Jack Butcher](https://visualizevalue.com/learn/build-once-sell-twice-the-productization-playbook)
 - [30x500 Academy - Amy Hoy & Alex Hillman](https://30x500.com)
 - [Practical Customer Development - Rob Fitzpatrick](https://udemy.com/course/practical-customer-development)
+- [Hit the Front Page of Hacker News - Michael Lynch](https://hitthefrontpage.com)
 - [Create a 7 Figure SaaS Growth Blueprint - Ryan Kulp](https://growthcourse.teachable.com)
 - [Everyone Can Build a Twitter Audience - Daniel Vassallo](https://dvassallo.gumroad.com/l/twitter-audience)
 
 <details>
-<summary>🗄️ 4 archived courses (no longer available, archived copies)</summary>
+<summary>🗄️ 6 archived courses (removed from the list)</summary>
 
+- [Productize - Brian Casel](https://www.productizeandscale.com/course/) · no longer sold
 - [No Code MVP - Bram Kanstein](https://web.archive.org/web/20250314044824/https://nocodemvp.com/) · archived Mar 2025
 - [Refactoring Growth - Corey Haines](https://web.archive.org/web/20251118062410/https://www.swipefiles.com/refactoring-growth) · archived Nov 2025
 - [Build Winning Products - Hiten Shah](https://i.imgur.com/zIZGgcX.png) · screenshot
+- [Workshop for Bootstrappers - Seth Godin](https://udemy.com/course/workshop-for-bootstrappers) · still online
 - [Successful Tech Startup in 60 Days - Mitch Harper](https://web.archive.org/web/20251207005113/https://foundr.com/60ds-public-sp) · archived Dec 2025
 
 </details>
