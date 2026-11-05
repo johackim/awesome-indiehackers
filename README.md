@@ -16,9 +16,10 @@ An indie hacker is an independent creator who builds projects and makes money in
 
 ## 📚 Blogs
 
-- [Plausible](https://plausible.io/blog)
 - [Alex West](https://alexwest.co)
+- [Derek Sivers](https://sive.rs)
 - [Pieter Levels](https://levels.io/blog)
+- [Michael Lynch](https://mtlynch.io)
 - [Marketing Examples](https://marketingexamples.com)
 - [The Bootstrapped Founder](https://thebootstrappedfounder.com)
 
