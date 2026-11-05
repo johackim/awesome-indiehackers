@@ -37,7 +37,7 @@ An indie hacker is an independent creator who builds projects and makes money in
 - [Make - Pieter Levels](https://readmake.com)
 - [Rework - Jason Fried](https://amazon.com/dp/B002MUAJ2A)
 - [Zero To Sold - Arvid Kahl](https://amazon.com/dp/B08BWZS8VN)
-- [My Indie Book - Tony Dinh](https://www.myindiebook.com)
+- [My Indie Book - Tony Dinh](https://myindiebook.com)
 - [Company of One - Paul Jarvis](https://amazon.com/dp/B078962RHQ)
 - [The Mom Test - Rob Fitzpatrick](https://amazon.com/dp/B01H4G2J1U)
 - [Start From Zero - Dane Maxwell](https://amazon.com/dp/B0BDSC31MB)
@@ -50,6 +50,7 @@ An indie hacker is an independent creator who builds projects and makes money in
 - [Start Small, Stay Small - Rob Walling](https://amazon.com/dp/B003YH9MMI)
 - [Million Dollar Weekend - Noah Kagan](https://amazon.com/dp/059353977X)
 - [The $150M Secret - Guillaume Moubeche](https://amazon.com/dp/B0B3PGWSXG)
+- [Marketing for Developers - Justin Jackson](https://marketingfordevelopers.com)
 - [The Minimalist Entrepreneur - Sahil Lavingia](https://amazon.com/dp/B08V52DP47)
 - [The Almanack of Naval Ravikant - Eric Jorgenson](https://amazon.com/dp/B0F9XD4XSY)
 
@@ -104,7 +105,6 @@ An indie hacker is an independent creator who builds projects and makes money in
 
 ## 🎓 Courses
 
-- [Marketing for Developers - Justin Jackson](https://marketingfordevelopers.com)
 - [Workshop for Bootstrappers - Seth Godin](https://udemy.com/course/workshop-for-bootstrappers)
 - [30x500 Academy - Amy Hoy & Alex Hillman](https://30x500.com)
 - [Practical Customer Development - Rob Fitzpatrick](https://udemy.com/course/practical-customer-development)
