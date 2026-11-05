@@ -5,9 +5,9 @@ An indie hacker is an independent creator who builds projects and makes money in
 ## 🧑‍💻 Indie Hackers
 
 - [Marc Lou](https://x.com/marclou)
-- [Tony Dinh](https://x.com/tdinh_me)
-- [Jim Raptis](https://x.com/d__raptis)
 - [Alex West](https://x.com/alexwestco)
+- [Jim Raptis](https://x.com/d__raptis)
+- [Tony Dinh](https://x.com/tdinh_me)
 - [Arvid Kahl](https://x.com/arvidkahl)
 - [Pieter Levels](https://x.com/levelsio)
 - [Jon Yongfook](https://x.com/yongfook)
@@ -37,12 +37,14 @@ An indie hacker is an independent creator who builds projects and makes money in
 - [Make - Pieter Levels](https://readmake.com)
 - [Rework - Jason Fried](https://amazon.com/dp/B002MUAJ2A)
 - [Zero To Sold - Arvid Kahl](https://amazon.com/dp/B08BWZS8VN)
+- [My Indie Book - Tony Dinh](https://www.myindiebook.com)
 - [Company of One - Paul Jarvis](https://amazon.com/dp/B078962RHQ)
 - [The Mom Test - Rob Fitzpatrick](https://amazon.com/dp/B01H4G2J1U)
 - [Start From Zero - Dane Maxwell](https://amazon.com/dp/B0BDSC31MB)
+- [Not Business Advice - Alex West](https://amazon.com/dp/B0GMD7VQQR)
 - [The SaaS Playbook - Rob Walling](https://amazon.com/dp/B0CCQB26RS)
-- [Never Enough - Andrew Wilkinson](https://amazon.com/dp/B0CKVJS17Z)
 - [The Personal MBA - Josh Kaufman](https://amazon.com/dp/B08H5PKGGG)
+- [Never Enough - Andrew Wilkinson](https://amazon.com/dp/B0CKVJS17Z)
 - [Doing Content Right - Steph Smith](https://doingcontentright.com)
 - [The $100 Startup - Chris Guillebeau](https://amazon.com/dp/B0067TGSOK)
 - [Start Small, Stay Small - Rob Walling](https://amazon.com/dp/B003YH9MMI)
@@ -111,9 +113,9 @@ An indie hacker is an independent creator who builds projects and makes money in
 <details>
 <summary>🗄️ 4 archived courses (no longer available, archived copies)</summary>
 
-- [Build Winning Products - Hiten Shah](https://i.imgur.com/zIZGgcX.png) · screenshot
 - [No Code MVP - Bram Kanstein](https://web.archive.org/web/20250314044824/https://nocodemvp.com/) · archived Mar 2025
 - [Refactoring Growth - Corey Haines](https://web.archive.org/web/20251118062410/https://www.swipefiles.com/refactoring-growth) · archived Nov 2025
+- [Build Winning Products - Hiten Shah](https://i.imgur.com/zIZGgcX.png) · screenshot
 - [Successful Tech Startup in 60 Days - Mitch Harper](https://web.archive.org/web/20251207005113/https://foundr.com/60ds-public-sp) · archived Dec 2025
 
 </details>
@@ -121,8 +123,8 @@ An indie hacker is an independent creator who builds projects and makes money in
 ## 📹 YouTube Channels
 
 - [Marc Lou](https://youtube.com/@marc-lou/videos)
-- [MicroConf](https://youtube.com/@MicroConf/videos)
 - [Florin Pop](https://youtube.com/@FlorinPop/videos)
+- [MicroConf](https://youtube.com/@MicroConf/videos)
 - [Sahil Lavingia](https://youtube.com/@sahil_lavingia/videos)
 - [Justin Jackson](https://youtube.com/@JustinJackson/videos)
 - [Simon Høiberg](https://youtube.com/@SimonHoiberg/videos)
