@@ -1,3 +1,5 @@
+> 📣 **Sponsor** · Your product here, seen by every visitor of this list. [Contact me](mailto:contact@johackim.com) first, then [become a sponsor](https://github.com/sponsors/johackim/sponsorships?tier_id=678518&preview=false).
+
 ## 🤔 What is an Indie Hacker?
 
 An indie hacker is an independent creator who builds projects and makes money independently, without employees or external funding.
@@ -142,7 +144,9 @@ An indie hacker is an independent creator who builds projects and makes money in
 
 ## 🎁 Support me
 
-Please support me with a one-time or a monthly donation and help me continue my activities.
+If this list helps you, you can support it with a one-time or monthly sponsorship.
+
+Want your product featured at the top of this list? [Contact me](mailto:contact@johackim.com) first, then pick the [Featured sponsor](https://github.com/sponsors/johackim/sponsorships?tier_id=678518&preview=false) tier.
 
 [![Github sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors)](https://github.com/sponsors/johackim/)
 
