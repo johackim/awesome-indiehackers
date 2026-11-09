@@ -144,6 +144,18 @@ An indie hacker is an independent creator who builds projects and makes money in
 - [Justin Jackson](https://youtube.com/@JustinJackson/videos)
 - [Simon Høiberg](https://youtube.com/@SimonHoiberg/videos)
 
+## 🌟 Other Awesome Lists
+
+- [Awesome Indie](https://github.com/mezod/awesome-indie)
+- [Awesome Startup](https://github.com/KrishMunot/awesome-startup)
+
+<details>
+<summary>🗄️ 1 archived list (removed from the list)</summary>
+
+- [App Launch Guide](https://github.com/adamwulf/app-launch-guide) - Last commit Apr 2021.
+
+</details>
+
 ## 🎁 Support me
 
 If this list helps you, you can support it with a one-time or monthly sponsorship.
