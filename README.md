@@ -1,3 +1,5 @@
+# Awesome Indie Hackers
+
 > 📣 **Sponsor** · Your product here, seen by every visitor of this list. [Contact me](mailto:contact@johackim.com) first, then [become a sponsor](https://github.com/sponsors/johackim/sponsorships?tier_id=678518&preview=false).
 
 ## 🤔 What is an Indie Hacker?
@@ -28,10 +30,10 @@ An indie hacker is an independent creator who builds projects and makes money in
 <details>
 <summary>💤 4 dormant blogs (no new post in over a year)</summary>
 
-- [Hiten Shah](https://hitenism.com) · last post Apr 2017
-- [Jakob Greenfeld](https://jakobgreenfeld.com) · last post Jun 2025
-- [Stacking The Bricks](https://stackingthebricks.com) · last post Jan 2025
-- [The Modern Marketing System](https://themodernmarketingsystem.com) · last post Feb 2024
+- [Hiten Shah](https://hitenism.com) - Last post Apr 2017.
+- [Jakob Greenfeld](https://jakobgreenfeld.com) - Last post Jun 2025.
+- [Stacking The Bricks](https://stackingthebricks.com) - Last post Jan 2025.
+- [The Modern Marketing System](https://themodernmarketingsystem.com) - Last post Feb 2024.
 
 </details>
 
@@ -60,8 +62,8 @@ An indie hacker is an independent creator who builds projects and makes money in
 <details>
 <summary>🗄️ 2 archived books (removed from the list)</summary>
 
-- [The Chameleon Founder - Matteo Mosca](https://amazon.com/dp/B0CN4YH2LP) · still online
-- [Generating Product Ideas - Artiom Dashinsky](https://amazon.com/dp/B08DST1YJ7) · still online
+- [The Chameleon Founder - Matteo Mosca](https://amazon.com/dp/B0CN4YH2LP) - Still online.
+- [Generating Product Ideas - Artiom Dashinsky](https://amazon.com/dp/B08DST1YJ7) - Still online.
 
 </details>
 
@@ -81,9 +83,9 @@ An indie hacker is an independent creator who builds projects and makes money in
 <details>
 <summary>💤 3 dormant podcasts (no new episode in over a year)</summary>
 
-- [Indie Bites](https://indiebites.com) · last episode Oct 2025
-- [Indie Makers](https://anchor.fm/indiemakers) · last episode Dec 2022
-- [Indie Hackers](https://indiehackers.com/podcasts) · last episode Jun 2023
+- [Indie Bites](https://indiebites.com) - Last episode Oct 2025.
+- [Indie Makers](https://anchor.fm/indiemakers) - Last episode Dec 2022.
+- [Indie Hackers](https://indiehackers.com/podcasts) - Last episode Jun 2023.
 
 </details>
 
@@ -98,10 +100,10 @@ An indie hacker is an independent creator who builds projects and makes money in
 <details>
 <summary>🗄️ 4 archived communities (removed from the list)</summary>
 
-- [Makerlog](https://web.archive.org/web/20241124182652/https://getmakerlog.com/) · archived Nov 2024
-- [Women Make](https://womenmake.com) · still online
-- [MicroFounder](https://microfounder.com) · still online
-- [Bootstrapped Family](https://web.archive.org/web/20220819021310/https://bootstrappedfamily.com/) · archived Aug 2022
+- [Makerlog](https://web.archive.org/web/20241124182652/https://getmakerlog.com/) - Archived Nov 2024.
+- [Women Make](https://womenmake.com) - Still online.
+- [MicroFounder](https://microfounder.com) - Still online.
+- [Bootstrapped Family](https://web.archive.org/web/20220819021310/https://bootstrappedfamily.com/) - Archived Aug 2022.
 
 </details>
 
@@ -124,12 +126,12 @@ An indie hacker is an independent creator who builds projects and makes money in
 <details>
 <summary>🗄️ 6 archived courses (removed from the list)</summary>
 
-- [Productize - Brian Casel](https://www.productizeandscale.com/course/) · no longer sold
-- [No Code MVP - Bram Kanstein](https://web.archive.org/web/20250314044824/https://nocodemvp.com/) · archived Mar 2025
-- [Refactoring Growth - Corey Haines](https://web.archive.org/web/20251118062410/https://www.swipefiles.com/refactoring-growth) · archived Nov 2025
-- [Build Winning Products - Hiten Shah](https://i.imgur.com/zIZGgcX.png) · screenshot
-- [Workshop for Bootstrappers - Seth Godin](https://udemy.com/course/workshop-for-bootstrappers) · still online
-- [Successful Tech Startup in 60 Days - Mitch Harper](https://web.archive.org/web/20251207005113/https://foundr.com/60ds-public-sp) · archived Dec 2025
+- [Productize - Brian Casel](https://www.productizeandscale.com/course/) - No longer sold.
+- [No Code MVP - Bram Kanstein](https://web.archive.org/web/20250314044824/https://nocodemvp.com/) - Archived Mar 2025.
+- [Refactoring Growth - Corey Haines](https://web.archive.org/web/20251118062410/https://www.swipefiles.com/refactoring-growth) - Archived Nov 2025.
+- [Build Winning Products - Hiten Shah](https://i.imgur.com/zIZGgcX.png) - Screenshot.
+- [Workshop for Bootstrappers - Seth Godin](https://udemy.com/course/workshop-for-bootstrappers) - Still online.
+- [Successful Tech Startup in 60 Days - Mitch Harper](https://web.archive.org/web/20251207005113/https://foundr.com/60ds-public-sp) - Archived Dec 2025.
 
 </details>
 
@@ -145,8 +147,6 @@ An indie hacker is an independent creator who builds projects and makes money in
 ## 🎁 Support me
 
 If this list helps you, you can support it with a one-time or monthly sponsorship.
-
-Want your product featured at the top of this list? [Contact me](mailto:contact@johackim.com) first, then pick the [Featured sponsor](https://github.com/sponsors/johackim/sponsorships?tier_id=678518&preview=false) tier.
 
 [![Github sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors)](https://github.com/sponsors/johackim/)
 
