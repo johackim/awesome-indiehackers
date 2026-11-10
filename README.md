@@ -1,6 +1,6 @@
 # Awesome Indie Hackers
 
-> 📣 **Sponsor** · Your product here, seen by every visitor of this list. [Contact me](mailto:contact@johackim.com) first, then [become a sponsor](https://github.com/sponsors/johackim/sponsorships?tier_id=678518&preview=false).
+> 📣 **Sponsor** · [Whop](https://go.nli.one/indiehackers): sell software, services and digital products, and get paid worldwide. *(affiliate link)*
 
 ## 🤔 What is an Indie Hacker?
 
